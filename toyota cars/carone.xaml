@@ -1,0 +1,21 @@
+﻿<Page
+    x:Class="toyota_cars.carone"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:toyota_cars"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Button Content="Button" HorizontalAlignment="Stretch" Margin="7,260,-3,0" VerticalAlignment="Top" Height="109" Click="Button_Click" RenderTransformOrigin="0.5,0.5"/>
+        <Image Source="Assets/backgroundimg1.jpg" Stretch="Fill" HorizontalAlignment="Left" Height="185" Margin="51,37,0,0" VerticalAlignment="Top" Width="248"/>
+        <Image Source="Assets/backgroundimg1.jpg" Stretch="Fill" HorizontalAlignment="Left" Height="185" Margin="327,37,0,0" VerticalAlignment="Top" Width="268"/>
+        <Image Source="Assets/backgroundimg1.jpg" Stretch="Fill" HorizontalAlignment="Left" Height="185" Margin="629,37,0,0" VerticalAlignment="Top" Width="294"/>
+        <Image Source="Assets/backgroundimg1.jpg" Stretch="Fill"  HorizontalAlignment="Left" Height="185" Margin="953,37,0,0" VerticalAlignment="Top" Width="288"/>
+        <Image Source="Assets/backgroundimg1.jpg" Stretch="Fill" HorizontalAlignment="Left" Height="390" Margin="10,400,0,0" VerticalAlignment="Top" Width="447"/>
+        <Image Source="Assets/backgroundimg1.jpg" Stretch="Fill"   HorizontalAlignment="Left" Height="390" Margin="490,400,0,0" VerticalAlignment="Top" Width="303"/>
+        <Image Source="Assets/backgroundimg1.jpg" Stretch="Fill" HorizontalAlignment="Left" Height="390" Margin="823,400,0,0" VerticalAlignment="Top" Width="447"/>
+
+    </Grid>
+</Page>

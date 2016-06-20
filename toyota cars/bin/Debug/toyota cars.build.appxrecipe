@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>APPLE2-PC</Machine>
+    <WindowsUser>apple2</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>349f5f6b-b91b-4450-869f-87c38e538a88</PackageIdentityName>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\sample-master\sample-master\toyota cars\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\sample-master\sample-master\toyota cars\bin\Debug\toyota cars.exe">
+      <PackagePath>toyota cars.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\sample-master\sample-master\toyota cars\Assets\1.jpg">
+      <PackagePath>Assets\1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\sample-master\sample-master\toyota cars\Assets\2.jpg">
+      <PackagePath>Assets\2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\sample-master\sample-master\toyota cars\Assets\3.jpg">
+      <PackagePath>Assets\3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\sample-master\sample-master\toyota cars\Assets\4.jpg">
+      <PackagePath>Assets\4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\sample-master\sample-master\toyota cars\Assets\5.jpg">
+      <PackagePath>Assets\5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\sample-master\sample-master\toyota cars\Assets\background3.jpg">
+      <PackagePath>Assets\background3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\sample-master\sample-master\toyota cars\Assets\backgroundimg.jpg">
+      <PackagePath>Assets\backgroundimg.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\sample-master\sample-master\toyota cars\Assets\backgroundimg1.jpg">
+      <PackagePath>Assets\backgroundimg1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\sample-master\sample-master\toyota cars\Assets\backgroundimg2.jpg">
+      <PackagePath>Assets\backgroundimg2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\sample-master\sample-master\toyota cars\Assets\backgroundimg4.jpg">
+      <PackagePath>Assets\backgroundimg4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\sample-master\sample-master\toyota cars\Assets\index_slide_m_09.jpg">
+      <PackagePath>Assets\index_slide_m_09.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\sample-master\sample-master\toyota cars\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\sample-master\sample-master\toyota cars\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\sample-master\sample-master\toyota cars\Assets\SmallLogo.scale-80.png">
+      <PackagePath>Assets\SmallLogo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\sample-master\sample-master\toyota cars\Assets\SmallLogo.targetsize-32.png">
+      <PackagePath>Assets\SmallLogo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\sample-master\sample-master\toyota cars\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\sample-master\sample-master\toyota cars\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\sample-master\sample-master\toyota cars\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\sample-master\sample-master\toyota cars\Assets\Toyota_cars_carmudi.png">
+      <PackagePath>Assets\Toyota_cars_carmudi.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\sample-master\sample-master\toyota cars\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\sample-master\sample-master\toyota cars\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\sample-master\sample-master\toyota cars\bin\Debug\carone.xbf">
+      <PackagePath>carone.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\sample-master\sample-master\toyota cars\bin\Debug\intro.xbf">
+      <PackagePath>intro.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\sample-master\sample-master\toyota cars\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\sample-master\sample-master\toyota cars\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
