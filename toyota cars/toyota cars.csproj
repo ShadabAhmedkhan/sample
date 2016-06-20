@@ -108,6 +108,7 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="carone.xaml.cs">
       <DependentUpon>carone.xaml</DependentUpon>
     </Compile>
@@ -115,6 +116,8 @@
     <Compile Include="Common\ObservableDictionary.cs" />
     <Compile Include="Common\RelayCommand.cs" />
     <Compile Include="Common\SuspensionManager.cs" />
+=======
+>>>>>>> 79bd3bc364b70b3de20d916d0d00f9140c34d09c
     <Compile Include="intro.xaml.cs">
       <DependentUpon>intro.xaml</DependentUpon>
     </Compile>
@@ -152,17 +155,23 @@
     <Content Include="Assets\SplashScreen.scale-180.png" />
     <Content Include="Assets\StoreLogo.scale-100.png" />
     <Content Include="Assets\Toyota_cars_carmudi.png" />
+<<<<<<< HEAD
     <Content Include="Common\ReadMe.txt" />
+=======
+>>>>>>> 79bd3bc364b70b3de20d916d0d00f9140c34d09c
   </ItemGroup>
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+<<<<<<< HEAD
     <Page Include="carone.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+=======
+>>>>>>> 79bd3bc364b70b3de20d916d0d00f9140c34d09c
     <Page Include="intro.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>

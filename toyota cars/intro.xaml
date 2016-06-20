@@ -8,7 +8,11 @@
     mc:Ignorable="d">
 
     <Grid Background="WhiteSmoke">
+<<<<<<< HEAD
         <TextBlock   Margin="487,0,326,656"   Foreground="Red" FontWeight="Bold" Text="TOYOTA" FontSize="100"   Height="112"/>
+=======
+        <TextBlock   Margin="487,0,487,656"   Foreground="Red" FontWeight="Bold" Text="TOYOTA" FontSize="100"   Height="112"/>
+>>>>>>> 79bd3bc364b70b3de20d916d0d00f9140c34d09c
         <Grid HorizontalAlignment="Left" Height="117" Margin="0,112,0,0" VerticalAlignment="Top" Width="1356">
             <Button Content="Cars" FontSize="70" Background="OrangeRed" Foreground="White" HorizontalAlignment="Left" Margin="-3,-3,0,0" VerticalAlignment="Top" Height="113" Width="244"/>
             <Button Content="Cars" FontSize="70" Background="OrangeRed" Foreground="White" HorizontalAlignment="Left" Margin="230,-3,0,0" VerticalAlignment="Top" Height="113" Width="244"/>
@@ -18,16 +22,26 @@
             <Button Content="Cars" FontSize="70" Background="OrangeRed" Foreground="White" HorizontalAlignment="Left" Margin="1153,-3,-3,0" VerticalAlignment="Top" Height="113" Width="206"/>
         </Grid>
         <!--<Image  HorizontalAlignment="Left" Height="529" Margin="686,229,0,0" VerticalAlignment="Top" Width="455"/>-->
+<<<<<<< HEAD
         <Button x:Name="img" HorizontalAlignment="Left" Margin="12,226,0,0" VerticalAlignment="Top" Height="550" Width="373" >
             <Image Source="Assets/backgroundimg1.jpg" Stretch="Fill"   >
 
             </Image>
         </Button>
         <Button x:Name="iTunesButton"   HorizontalAlignment="Right" Margin="-3,231,900,0" VerticalAlignment="Top"  Width="383" BorderBrush="{x:Null}" Height="545" Foreground="{x:Null}" Click="iTunesButton_Click" >
+=======
+        <Button x:Name="img" HorizontalAlignment="Left" Margin="7,226,0,0" VerticalAlignment="Top" Height="530" Width="447" Click="Button_Click">
+            <Image Source="Assets/backgroundimg1.jpg" Stretch="Fill" Height="527" Width="423" >
+
+            </Image>
+        </Button>
+        <Button x:Name="iTunesButton"  Content="" HorizontalAlignment="Right" Margin="0,216,912,0" VerticalAlignment="Top"  Width="447" BorderBrush="{x:Null}" Height="545" Foreground="{x:Null}" >
+>>>>>>> 79bd3bc364b70b3de20d916d0d00f9140c34d09c
             <Button.Background>
                 <ImageBrush Stretch="Fill" ImageSource="Assets/2.jpg" />
             </Button.Background>
         </Button>
+<<<<<<< HEAD
         <!--two-->
         <Button x:Name="img1" HorizontalAlignment="Left" Margin="374,237,0,0" VerticalAlignment="Top" Height="244" Width="325" >
             <Image Source="Assets/backgroundimg2.jpg" Stretch="Fill"   >
@@ -79,5 +93,19 @@
                 <ImageBrush Stretch="Fill" ImageSource="Assets/2.jpg" />
             </Button.Background>
         </Button>
+=======
+        <Button x:Name="img2" Content="Button" HorizontalAlignment="Left" Margin="453,231,0,0" VerticalAlignment="Top" Height="244" Width="289">
+            <Image Source="Assets/backgroundimg1.jpg" Stretch="Fill" Height="527" Width="423">
+             </Image>
+        </Button>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="741,226,0,0" VerticalAlignment="Top" Height="244" Width="289">
+
+        </Button>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="1070,231,0,0" VerticalAlignment="Top" Height="244" Width="289">
+
+        </Button>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="453,512,0,0" VerticalAlignment="Top" Height="244" Width="289"></Button>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="741,527,0,-3" VerticalAlignment="Top" Height="244" Width="618"></Button>
+>>>>>>> 79bd3bc364b70b3de20d916d0d00f9140c34d09c
     </Grid>
 </Page>

@@ -65,6 +65,7 @@ D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\toyota-cars-master
 D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\toyota-cars-master\toyota-cars-master\toyota cars\toyota cars\obj\Debug\items.g.cs
 D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\toyota-cars-master\toyota-cars-master\toyota cars\toyota cars\obj\Debug\items.xaml
 D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\toyota-cars-master\toyota-cars-master\toyota cars\toyota cars\obj\Debug\items.xbf
+<<<<<<< HEAD
 D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\sample-master\sample-master\toyota cars\obj\Debug\toyota cars.exe
 D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\sample-master\sample-master\toyota cars\obj\Debug\toyota cars.pdb
 D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\sample-master\sample-master\toyota cars\obj\Debug\App.g.i.cs
@@ -107,3 +108,5 @@ D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\sample-master\samp
 D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\sample-master\sample-master\toyota cars\obj\Debug\carone.g.cs
 D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\sample-master\sample-master\toyota cars\obj\Debug\carone.xaml
 D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\sample-master\sample-master\toyota cars\obj\Debug\carone.xbf
+=======
+>>>>>>> 79bd3bc364b70b3de20d916d0d00f9140c34d09c

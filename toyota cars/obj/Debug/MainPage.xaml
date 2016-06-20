@@ -7,6 +7,7 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d">
 
+<<<<<<< HEAD
     <Grid >
         <Image HorizontalAlignment="Left" Source="Assets/index_slide_m_09.jpg" Stretch="Fill"  Margin="0,0,-8,0" VerticalAlignment="Top" Width="1374" Height="302"/>
         <Frame  Margin="490,400,504,0"  VerticalAlignment="Top" Height="177" >
@@ -21,13 +22,32 @@
                             <StackPanel Margin="-150,-450,450,200" Background="Violet" Opacity="0.5">
                                 <TextBlock Text="{Binding tour_description}" Height="auto" Width="160"  Foreground="Black" TextWrapping="Wrap"  VerticalAlignment="Center" HorizontalAlignment="Center" Margin="6"  FontSize="12"/>
                             </StackPanel>-->
+=======
+    <Grid Margin="0,0,0,139">
+        <!--<Image HorizontalAlignment="Left" Source="Assets/index_slide_m_09.jpg" Stretch="Fill"  Margin="0,5,-8,0" VerticalAlignment="Top" Width="1374" Height="763"/>-->
+        <Frame Background="Black"   Margin="0,0,0,-143">
+            <FlipView Name="flip" ItemsSource="{Binding}" Margin="7,-3" Height="778" VerticalAlignment="Top">
+                <FlipView.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel >
+                            <Image Source="{Binding tour_image}" Stretch="Fill" />
+                            <StackPanel Margin="-150,-500,450,-200" Background="BlanchedAlmond" Opacity="0.5">
+                                <TextBlock Text="{Binding tour_text}" Height="auto" Width="160" Foreground="Black"  VerticalAlignment="Center" HorizontalAlignment="Center" Margin="6" FontSize="30"/>
+                            </StackPanel>
+                            <StackPanel Margin="-150,-450,450,200" Background="Violet" Opacity="0.5">
+                                <TextBlock Text="{Binding tour_description}" Height="auto" Width="160"  Foreground="Black" TextWrapping="Wrap"  VerticalAlignment="Center" HorizontalAlignment="Center" Margin="6"  FontSize="12"/>
+                            </StackPanel>
+>>>>>>> 79bd3bc364b70b3de20d916d0d00f9140c34d09c
                         </StackPanel>
                     </DataTemplate>
                 </FlipView.ItemTemplate>
             </FlipView>
         </Frame>
+<<<<<<< HEAD
         <Image Source="Assets/index_slide_m_09.jpg" Stretch="Fill" HorizontalAlignment="Left" Height="186" VerticalAlignment="Top" Width="1374" Margin="0,582,-8,0"/>
         <Button x:ConnectionId='1' Content="Selection Origin" FontSize="32" HorizontalAlignment="Left" BorderThickness="0" Margin="882,631,0,0" VerticalAlignment="Top" Height="87" Width="294"                     />
+=======
+>>>>>>> 79bd3bc364b70b3de20d916d0d00f9140c34d09c
     </Grid>
 </Page>
 

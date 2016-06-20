@@ -25,6 +25,7 @@ namespace toyota_cars
         public intro()
         {
             this.InitializeComponent();
+<<<<<<< HEAD
             
         }
 
@@ -62,6 +63,9 @@ namespace toyota_cars
         {
             this.Frame.Navigate(typeof(carone));
 
+=======
+            InitializeComponent();  
+>>>>>>> 79bd3bc364b70b3de20d916d0d00f9140c34d09c
         }
     }
 }

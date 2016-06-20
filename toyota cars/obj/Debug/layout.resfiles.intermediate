@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Assets\1.jpg
 Assets\2.jpg
 Assets\3.jpg
@@ -8,6 +9,8 @@ Assets\backgroundimg.jpg
 Assets\backgroundimg1.jpg
 Assets\backgroundimg2.jpg
 Assets\backgroundimg4.jpg
+=======
+>>>>>>> 79bd3bc364b70b3de20d916d0d00f9140c34d09c
 Assets\index_slide_m_09.jpg
 Assets\Logo.scale-100.png
 Assets\SmallLogo.scale-100.png
@@ -18,7 +21,12 @@ Assets\SplashScreen.scale-180.png
 Assets\StoreLogo.scale-100.png
 Assets\Toyota_cars_carmudi.png
 App.xbf
+<<<<<<< HEAD
 carone.xbf
 intro.xbf
 MainPage.xbf
 Common\ReadMe.txt
+=======
+MainPage.xbf
+toyota cars.xr.xml
+>>>>>>> 79bd3bc364b70b3de20d916d0d00f9140c34d09c

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\sample-master\sample-master\toyota cars\toyota cars.csproj;neutral
+=======
+D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\toyota-cars-master\toyota-cars-master\toyota cars\toyota cars\toyota cars.csproj;neutral
+>>>>>>> 79bd3bc364b70b3de20d916d0d00f9140c34d09c
