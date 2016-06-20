@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>APPLE2-PC</Machine>
+    <WindowsUser>apple2</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>349f5f6b-b91b-4450-869f-87c38e538a88</PackageIdentityName>
+    <RegisteredManifestChecksum>0C56ADAEF8E1EFC367A32C93E8C6052C9EE7A9B71501297D609EBEEAB38489AE</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>349f5f6b-b91b-4450-869f-87c38e538a88_1.0.0.0_neutral__79ejfqzfbtfcm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>349f5f6b-b91b-4450-869f-87c38e538a88_79ejfqzfbtfcm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>349f5f6b-b91b-4450-869f-87c38e538a88</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=asp</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\toyota-cars-master\toyota-cars-master\toyota cars\toyota cars\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-16T23:05:10.000</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\toyota-cars-master\toyota-cars-master\toyota cars\toyota cars\bin\Debug\toyota cars.exe">
+      <PackagePath>toyota cars.exe</PackagePath>
+      <Modified>2016-06-17T19:15:52.152</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\toyota-cars-master\toyota-cars-master\toyota cars\toyota cars\Assets\index_slide_m_09.jpg">
+      <PackagePath>Assets\index_slide_m_09.jpg</PackagePath>
+      <Modified>2016-06-16T23:05:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\toyota-cars-master\toyota-cars-master\toyota cars\toyota cars\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-16T23:05:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\toyota-cars-master\toyota-cars-master\toyota cars\toyota cars\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-16T23:05:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\toyota-cars-master\toyota-cars-master\toyota cars\toyota cars\Assets\SmallLogo.scale-80.png">
+      <PackagePath>Assets\SmallLogo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-16T23:05:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\toyota-cars-master\toyota-cars-master\toyota cars\toyota cars\Assets\SmallLogo.targetsize-32.png">
+      <PackagePath>Assets\SmallLogo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-16T23:05:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\toyota-cars-master\toyota-cars-master\toyota cars\toyota cars\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-16T23:05:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\toyota-cars-master\toyota-cars-master\toyota cars\toyota cars\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-16T23:05:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\toyota-cars-master\toyota-cars-master\toyota cars\toyota cars\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-16T23:05:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\toyota-cars-master\toyota-cars-master\toyota cars\toyota cars\Assets\Toyota_cars_carmudi.png">
+      <PackagePath>Assets\Toyota_cars_carmudi.png</PackagePath>
+      <Modified>2016-06-16T23:05:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\toyota-cars-master\toyota-cars-master\toyota cars\toyota cars\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-06-16T23:05:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\toyota-cars-master\toyota-cars-master\toyota cars\toyota cars\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-06-16T23:05:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\shadab 3-01-2016\shadab11\shadab\c#\windows App store apps\toyota-cars-master\toyota-cars-master\toyota cars\toyota cars\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-06-16T23:05:10.000</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

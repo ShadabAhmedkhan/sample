@@ -1,0 +1,35 @@
+﻿<Page
+    x:Class="toyota_cars.intro"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:toyota_cars"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="WhiteSmoke">
+        <TextBlock   Margin="487,0,487,656"   Foreground="Red" FontWeight="Bold" Text="TOYOTA" FontSize="100"   Height="112"/>
+        <Grid HorizontalAlignment="Left" Height="117" Margin="0,112,0,0" VerticalAlignment="Top" Width="1356">
+            <Button Content="Cars" FontSize="70" Background="OrangeRed" Foreground="White" HorizontalAlignment="Left" Margin="-3,-3,0,0" VerticalAlignment="Top" Height="113" Width="244"/>
+            <Button Content="Cars" FontSize="70" Background="OrangeRed" Foreground="White" HorizontalAlignment="Left" Margin="230,-3,0,0" VerticalAlignment="Top" Height="113" Width="244"/>
+            <Button Content="Cars" FontSize="70" Background="OrangeRed" Foreground="White" HorizontalAlignment="Left" Margin="468,-3,0,0" VerticalAlignment="Top" Height="113" Width="244"/>
+            <Button Content="Cars" FontSize="70" Background="OrangeRed" Foreground="White" HorizontalAlignment="Left" Margin="706,-3,0,0" VerticalAlignment="Top" Height="113" Width="244"/>
+            <Button Content="Cars" FontSize="70" Background="OrangeRed" Foreground="White" HorizontalAlignment="Left" Margin="915,-3,0,0" VerticalAlignment="Top" Height="113" Width="244"/>
+            <Button Content="Cars" FontSize="70" Background="OrangeRed" Foreground="White" HorizontalAlignment="Left" Margin="1153,-3,-3,0" VerticalAlignment="Top" Height="113" Width="206"/>
+        </Grid>
+        <!--<Image  HorizontalAlignment="Left" Height="529" Margin="686,229,0,0" VerticalAlignment="Top" Width="455"/>-->
+        <Button x:ConnectionId='1' x:Name="img" HorizontalAlignment="Left" Margin="7,226,0,0" VerticalAlignment="Top" Height="530" Width="447"                     >
+            <Image Source="Assets/backgroundimg1.jpg" Stretch="Fill" Height="527" Width="423" >
+
+            </Image>
+        </Button>
+        <Button x:Name="iTunesButton"  Content="" HorizontalAlignment="Right" Margin="0,226,912,0" VerticalAlignment="Top"  Width="447" BorderBrush="{x:Null}" Height="530" Foreground="{x:Null}" >
+            <Button.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Assets/2.jpg" />
+            </Button.Background>
+        </Button>
+
+
+    </Grid>
+</Page>
+
